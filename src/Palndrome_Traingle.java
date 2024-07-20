@@ -7,7 +7,7 @@ public class Palndrome_Traingle {
             for (int k=i;k>0;k--){
                 System.out.print(k+" ");
             }
-            for(int l=i;l>1;l--){
+            for(int l=2;l<=i;l++){
                 System.out.print(l+" ");
             }
             System.out.println();
