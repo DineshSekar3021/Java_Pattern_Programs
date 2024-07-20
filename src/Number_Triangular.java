@@ -12,4 +12,4 @@ public class Number_Triangular {
         }
 
     }
-}l
+}
