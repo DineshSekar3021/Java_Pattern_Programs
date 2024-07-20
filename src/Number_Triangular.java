@@ -9,7 +9,7 @@ public class Number_Triangular {
             }
             System.out.println();
 
-        }a
+        }
 
     }
 }
