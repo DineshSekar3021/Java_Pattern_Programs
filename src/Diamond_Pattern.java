@@ -6,7 +6,7 @@ public class Diamond_Pattern {
                 System.out.print(" ");
             }
             for (int k=i;k>0;k--){
-                System.out.print("*"+" ");
+                System.out. print("*"+" ");
             }
             a--;
             System.out.println();
