@@ -31,4 +31,5 @@ public class Hollow_HourGlass_Pattern {
             b--;
             System.out.println();
         }
-}}
+}
+}
