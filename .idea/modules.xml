@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/sum.iml" filepath="$PROJECT_DIR$/sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pattern_Programs.iml" filepath="$PROJECT_DIR$/Pattern_Programs.iml" />
     </modules>
   </component>
 </project>
